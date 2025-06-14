@@ -1,5 +1,8 @@
-当然可以，以下是一篇整理好的博客文章，适合发布在你的技术博客上，涵盖了 **在 AlmaLinux 上使用 Certbot 申请并部署免费通配符 SSL 证书** 的完整流程：
-
+---
+slug: certbot-apply-free-ssl-certificate-for-nginx-on-almalinux
+title: 🛡 在 AlmaLinux 上使用 Certbot 免费申请通配符 SSL 证书并部署到 Nginx（支持 Cloudflare）
+authors: baiying
+tags: [certbot, free ssl certificate, nginx, almalinux, website]
 ---
 
 # 🛡 在 AlmaLinux 上使用 Certbot 免费申请通配符 SSL 证书并部署到 Nginx（支持 Cloudflare）
