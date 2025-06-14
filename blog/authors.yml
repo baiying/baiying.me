@@ -1,3 +1,10 @@
+baiying:
+  name: Ying Bai
+  title: Full Stack Engineer
+  url: https://github.com/baiying
+  image_url: https://github.com/baiying.png
+  page: true
+  
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
