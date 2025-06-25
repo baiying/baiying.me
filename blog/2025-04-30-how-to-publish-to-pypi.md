@@ -1,3 +1,10 @@
+---
+slug: how-to-publish-to-pypi
+title: 🛡 在 AlmaLinux 上使用 Certbot 免费申请通配符 SSL 证书并部署到 Nginx（支持 Cloudflare）
+authors: baiying
+tags: [certbot, free ssl certificate, nginx, almalinux, website]
+---
+
 要将 Python 开发的命令行工具发布出去供他人使用，可按以下步骤操作：
 
 ### 1. 项目结构与配置
@@ -13,6 +20,9 @@ my_command_line_tool/
 ├── README.md
 └── LICENSE
 ```
+
+<!-- truncate -->
+
 - **`setup.py` 或 `pyproject.toml`**：这两个文件用于配置项目元数据与依赖项。
     - **`setup.py`**：传统的项目配置文件，示例如下：
 ```python

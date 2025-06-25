@@ -9,6 +9,8 @@ tags: [certbot, free ssl certificate, nginx, almalinux, website]
 
 在构建网站或部署应用时，为所有子域启用 HTTPS 是常见的需求。本文将详细介绍如何在 AlmaLinux 上使用 Certbot + DNS API 方式免费申请 Let's Encrypt 的通配符 SSL 证书，并在 Nginx 中部署使用。以 Cloudflare 为 DNS 服务商为例。
 
+<!-- truncate -->
+
 ---
 
 ## 📌 一、环境准备

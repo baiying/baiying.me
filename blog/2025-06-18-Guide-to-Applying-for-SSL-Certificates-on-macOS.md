@@ -7,6 +7,7 @@ tags: [certbot, free ssl certificate, nginx, almalinux, website]
 
 在网站安全配置中，SSL 证书是保障数据传输安全的重要环节。本文将针对在 macOS 系统下申请 SSL 证书时遇到的常见问题，提供详细的解决方案。
 
+<!-- truncate -->
 
 一、域名提供商无 API 服务时申请证书的方法
 
