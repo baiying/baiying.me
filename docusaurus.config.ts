@@ -52,16 +52,16 @@ const config: Config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
-        // docs: false,
-        docs: {
-          path: 'docs',
-          routeBasePath: 'docs',
-          sidebarPath: require.resolve('./sidebars.ts'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false,
+        // docs: {
+        //   path: 'docs',
+        //   routeBasePath: 'docs',
+        //   sidebarPath: require.resolve('./sidebars.ts'),
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
