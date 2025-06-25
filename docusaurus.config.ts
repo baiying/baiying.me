@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '老白的日志',
-  tagline: '老白的日志',
+  tagline: 'Hello, World!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
