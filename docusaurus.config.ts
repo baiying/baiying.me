@@ -37,8 +37,8 @@ const config: Config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         blog: {
-          routeBasePath: '/',
-          path: 'blog',
+          // routeBasePath: '/',
+          // path: 'blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
