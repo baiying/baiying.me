@@ -1,6 +1,6 @@
 ---
 slug: how-to-publish-to-pypi
-title: 🛡 在 AlmaLinux 上使用 Certbot 免费申请通配符 SSL 证书并部署到 Nginx（支持 Cloudflare）
+title: 如何将程序包分享到PyPi
 authors: baiying
 tags: [certbot, free ssl certificate, nginx, almalinux, website]
 ---
