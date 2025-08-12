@@ -215,6 +215,7 @@ ssl_certificate_key /etc/nginx/certs/selfsigned.key;
 
 ### 502 Bad Gateway
 
+* 如果本地使用了代理，先检查代理是否跳过了绑定域名的解析
 * 检查目标容器是否正常运行：`docker ps`
 * 确认服务在容器内可访问（在 nginx 容器中执行）：
 
